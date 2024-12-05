@@ -1,4 +1,5 @@
-<img height="400" src="https://i.postimg.cc/8zW19nHy/Design-sans-titre.png"/>
+<img height="400" width:500 src="https://i.postimg.cc/8zW19nHy/Design-sans-titre.png"/>
+
 
 😃About Me
 
