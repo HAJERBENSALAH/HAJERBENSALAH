@@ -1,3 +1,5 @@
+![Banner](https://postimg.cc/4YfkhPjt)
+
 😃About Me
 
 👉After 12 years of experience in the senior care sector (EhPAD) as a sales professional, I decided to transition my career to a rapidly growing field: cybersecurity.
