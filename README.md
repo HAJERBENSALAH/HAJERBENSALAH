@@ -1,4 +1,4 @@
-(https://postimg.cc/4YfkhPjt)
+https://postimg.cc/4YfkhPjt
 
 😃About Me
 
