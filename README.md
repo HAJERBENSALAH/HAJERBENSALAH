@@ -1,4 +1,5 @@
-<img height="400" src="ttps://i.postimg.cc/8zW19nHy/Design-sans-titre.png"/>
+<img height="400" src="https://i.postimg.cc/8zW19nHy/Design-sans-titre.png"/>
+
 😃About Me
 
 👉After 12 years of experience in the senior care sector (EhPAD) as a sales professional, I decided to transition my career to a rapidly growing field: cybersecurity.
